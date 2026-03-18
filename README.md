@@ -2,7 +2,7 @@
 <h3 align="center">Kẻ hủy diệt Bug (bằng cách tạo ra nhiều bug mới hơn)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Chuyen+gia+Copy+Paste;Khach+VIP+cua+StackOverflow;Code+chay+duoc...+nhung+khong+hieu+sao" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Chuyen+gia+Copy+Paste;Khach+VIP+cua+CHATGPT;Code+chay+duoc...+nhung+khong+hieu+sao" alt="Typing SVG" />
 </p>
 
 ---
